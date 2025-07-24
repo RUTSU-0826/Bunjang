@@ -1,4 +1,4 @@
-# BunjangProject
+# BunjangCloneProject
 
 ## 프로젝트 소개
 중고거래 플랫폼 번개장터(Bunjang)를 클론한 프로젝트입니다.  
